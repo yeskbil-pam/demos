@@ -1,6 +1,9 @@
 import pandas as pd
 from datetime import datetime
 
+import os
+print("Working directory:", os.getcwd())
+
 # ---------------------------------------------------------
 # CONFIGURATION — Adjust these two lines for any demo
 # ---------------------------------------------------------
